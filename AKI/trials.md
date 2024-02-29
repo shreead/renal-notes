@@ -6,6 +6,8 @@ N Engl J Med. 2008 Jul 3;359(1):7-20.
 doi: 10.1056/NEJMoa0802639. PMID: 18492867; 
 PMCID: PMC2574780.
 
+[https://www.nejm.org/doi/full/10.1056/nejmoa0802639](https://www.nejm.org/doi/full/10.1056/nejmoa0802639)
+
 - randomly assigned critically ill patients with AKI and failure of at least one nonrenal organ or sepsis
 
 - intensive vs less intensive RRT 
